@@ -2,7 +2,7 @@
   
 # 🧠 Synaptheum
 
-### *Where Neural Connections Meet Academic Knowledge*
+### *Where The Power of AI Meets Academic Knowledge*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
