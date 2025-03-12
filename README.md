@@ -17,9 +17,6 @@
 
 **Synaptheum** is a comprehensive research assistant application that automates your entire academic workflow using OpenAI's Agents SDK and Computer Use capabilities. Like the synaptic connections in your brain, Synaptheum weaves together various research processes into one seamless experience.
 
-<div align="center">
-  <img src="https://i.imgur.com/JZbjdv8.png" alt="Synaptheum Workflow" width="800"/>
-</div>
 
 ## ✨ Features
 
