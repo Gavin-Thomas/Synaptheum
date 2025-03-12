@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-Powered-brightgreen.svg)](https://openai.com/)
-[![Status: Alpha](https://img.shields.io/badge/Status-Alpha-orange.svg)]()
+[![Contributors Welcome](https://img.shields.io/badge/Contributors-Welcome-brightgreen.svg)]()
 
 </div>
 
@@ -165,6 +165,29 @@ This implementation provides the core functionality, but could be enhanced with:
   - Machine learning models to predict acceptance probability
   - Analysis of editorial board research interests
   - Tracking of acceptance rates over time
+
+## 👥 Contribute & Make It Your Own
+
+<div align="center">
+  
+### ⚠️ DISCLAIMER ⚠️
+
+**Synaptheum is a community-driven project that needs YOUR contributions to thrive!**
+
+</div>
+
+This project exists as a foundation for researchers, developers, and academic institutions to build upon. We strongly encourage you to:
+
+- **Fork the repository** and adapt it to your specific research workflows
+- **Create your own version** tailored to your field, institution, or personal needs
+- **Share your improvements** with the broader academic community
+- **Join our growing network** of researchers revolutionizing academic work
+
+The code provided here is deliberately open-ended and adaptable. While functional, it requires contributors to reach its full potential. We believe in the power of collaborative development to transform academic research in the AI age.
+
+**Please use this code as a starting point to build something amazing.** Whether you're improving the core functionality, adapting it to different academic disciplines, or creating specialized tools for your institution - your contributions are essential.
+
+We've made Synaptheum open-source because we believe in democratizing access to cutting-edge research tools. Help us make this vision a reality!
 
 ## 📜 License
 
