@@ -16,7 +16,7 @@ ResearchBot is a comprehensive research assistant application that automates you
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/research-assistant.git
+   git clone https://github.com/yourusername/automatemyresearch.git
    cd research-assistant
    ```
 
