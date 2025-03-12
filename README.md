@@ -28,7 +28,7 @@
     </td>
     <td width="50%">
       <h3>📚 UCalgary Library Integration</h3>
-      <p>Automatically logs in, searches for papers, and downloads relevant results</p>
+      <p>Automatically logs in, searches for papers, and downloads relevant results. (Need to be a UCalgary student or faculty)</p>
     </td>
   </tr>
   <tr>
