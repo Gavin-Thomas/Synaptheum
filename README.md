@@ -122,10 +122,6 @@ Run the main script and enter your research question when prompted:
 python main.py
 ```
 
-<div align="center">
-  <img src="https://i.imgur.com/2JQJj92.png" alt="Synaptheum Demo" width="700"/>
-</div>
-
 The application will:
 
 1. 🧠 Analyze your research question
