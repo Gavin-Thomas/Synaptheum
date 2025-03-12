@@ -1,4 +1,5 @@
-# Synaptheum: Research. Redefined.
+# Synaptheum
+## Research Redefined.
 
 ResearchBot is a comprehensive research assistant application that automates your entire academic workflow using OpenAI's Agents SDK and Computer Use capabilities.
 
