@@ -42,7 +42,7 @@ ResearchBot is a comprehensive research assistant application that automates you
 Run the main script and enter your research question when prompted:
 
 ```bash
-python main.py
+python main-script.py
 ```
 
 The application will:
